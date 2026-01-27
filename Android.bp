@@ -9848,7 +9848,7 @@ cc_prebuilt_library_shared {
                 "libcvp_common",
                 "libsynx",
                 "libXMFaceFocus",
-                "libtinyxml2",
+                "libtinyxml2-v34",
                 "liblz4",
                 "libz",
                 "libdl",
